@@ -1,0 +1,13 @@
+{
+    "name": "amon/firstblood",
+    "description": "composer package study",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "skystone",
+            "email": "43979710@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
