@@ -1,7 +1,7 @@
 <?php
 namespace firstblood;
 
-Class firstblood{
+Class Firstblood{
     function hello() {
         echo 'hello world';die;
     }
