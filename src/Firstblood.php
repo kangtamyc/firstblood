@@ -3,7 +3,7 @@ namespace firstblood;
 
 Class firstblood{
     function hello() {
-        echo 'hello world';
+        echo 'hello world';die;
     }
 }
 
